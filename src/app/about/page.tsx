@@ -4,7 +4,7 @@ export default function AboutPage() {
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-white mb-6">About Portfolio Stalker</h1>
         <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-          We're building the future of portfolio tracking and investment monitoring.
+          We&apos;re building the future of portfolio tracking and investment monitoring.
         </p>
       </div>
 
@@ -18,7 +18,7 @@ export default function AboutPage() {
             insights to investors of all levels.
           </p>
           <p className="text-gray-300">
-            We're committed to transparency, security, and user privacy, ensuring that your 
+            We&apos;re committed to transparency, security, and user privacy, ensuring that your 
             financial data is always protected while providing you with the insights you need 
             to make informed investment decisions.
           </p>
